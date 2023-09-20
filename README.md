@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvishal-thenge%2Fgo-project.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvishal-thenge%2Fgo-project?ref=badge_shield)
+
 #### GoVWA
 GoVWA (Go Vulnerable Web Application) is a vulnerable web application designed for pentester or programmers to learn the web application vulnerability that often occur in web applications. The vulnerabilities in GoVWA are OWASP Top 10 category. 
 
@@ -101,3 +103,7 @@ Explore the vulnerability.
 * Build Simple Android APP
 
 Powered by [NemoSecurity](https://nemosecurity.com)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvishal-thenge%2Fgo-project.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvishal-thenge%2Fgo-project?ref=badge_large)
